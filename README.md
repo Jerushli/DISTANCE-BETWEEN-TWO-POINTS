@@ -3,8 +3,7 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-```
-ALGORITHM:
+
 Step 1:
 import math
 
@@ -18,8 +17,8 @@ Step 4:
 print the distance using formula
 
 Step 5:
-End the program
-```
+End the program.
+
 ### PROGRAM:
  ```
  #Program to find the distance between two points.
